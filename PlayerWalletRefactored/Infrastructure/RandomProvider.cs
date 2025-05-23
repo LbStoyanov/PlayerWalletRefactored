@@ -1,6 +1,4 @@
-﻿
-
-using PlayerWalletRefactored.Abstractions;
+﻿using PlayerWalletRefactored.Abstractions;
 
 namespace PlayerWalletRefactored.Infrastructure;
 
